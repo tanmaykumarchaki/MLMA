@@ -86,14 +86,6 @@ The project visualizes:
 - Coefficient shrinkage across OLS, Ridge, and Lasso
 - The stabilizing effect of regularization on learned parameters
 
----
-
-## 🎓 PG Entrance Mapping
-
-- Differential Calculus → Optimization
-- Linear Algebra → Conditioning and eigenvalues
-- Convexity → Guaranteed global minima
-- Bias–Variance Tradeoff → Statistical learning theory
 
 ---
 
@@ -107,3 +99,4 @@ The project visualizes:
 ## 🔖 Tags
 
 Machine Learning · Mathematics · Regularization · Ridge Regression · Lasso · Optimization · From Scratch · MLIDOMM
+
