@@ -62,4 +62,48 @@ A synthetic dataset with **high multicollinearity** is created to expose the wea
 ---
 
 ## 📂 Project Structure
+Day-3-Regularization/
+│
+├── regularization_demo.py
+├── README.md
 
+
+---
+
+## 📊 Results Summary
+
+| Model | Training Error | Test Error | Coefficient Stability |
+|------|---------------|------------|-----------------------|
+| OLS  | Very Low | High | Unstable |
+| Ridge | Moderate | Lower | Stable |
+| Lasso | Moderate | Competitive | Sparse |
+
+---
+
+## 📈 Visualization
+
+The project visualizes:
+- Coefficient shrinkage across OLS, Ridge, and Lasso
+- The stabilizing effect of regularization on learned parameters
+
+---
+
+## 🎓 PG Entrance Mapping
+
+- Differential Calculus → Optimization
+- Linear Algebra → Conditioning and eigenvalues
+- Convexity → Guaranteed global minima
+- Bias–Variance Tradeoff → Statistical learning theory
+
+---
+
+## 🚀 Key Takeaway
+
+> Regularization is not a heuristic — it is a mathematical necessity  
+> for stable and generalizable machine learning models.
+
+---
+
+## 🔖 Tags
+
+Machine Learning · Mathematics · Regularization · Ridge Regression · Lasso · Optimization · From Scratch · MLIDOMM
