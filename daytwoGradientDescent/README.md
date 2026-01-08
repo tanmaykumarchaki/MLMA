@@ -48,9 +48,6 @@ The focus is on understanding **how machines learn by minimizing loss functions*
 ├── gradient_descent_manual.py
 ├── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 📈 Learning Outcome
@@ -85,3 +82,4 @@ Day 3 will extend this foundation to:
 
 **Author:** Tanmay Kumar Chaki
 **Challenge:** MLIDOMM  
+
