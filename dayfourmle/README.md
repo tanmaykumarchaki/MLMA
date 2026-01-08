@@ -35,9 +35,6 @@ Day-4-MLE-Linear-Regression/
 ├── mle_linear_regression.py
 ├── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 📊 Key Observations
@@ -67,3 +64,4 @@ Copy code
 ## 🔖 Tags
 
 Machine Learning · Probability · Statistics · Maximum Likelihood Estimation · Linear Regression ·
+
